@@ -6,4 +6,4 @@ Using [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) with a modified ver
 
 ![Screenshot](https://raw.githubusercontent.com/anunez/one-dark-iterm/screenshots/screenshots/01.png)
 
-[Inspired from](https://github.com/anunez/one-dark-iterm) 
+[Inspired from https://github.com/anunez/one-dark-iterm](https://github.com/anunez/one-dark-iterm)
