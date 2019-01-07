@@ -4,6 +4,6 @@
 
 Using [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) with a modified version of the [Spaceship Theme](https://github.com/denysdovhan/spaceship-prompt)
 
-![Screenshot](https://raw.githubusercontent.com/anunez/one-dark-iterm/screenshots/screenshots/01.png)
+![Screenshot](https://github.com/ipaintcode/one-dark-vivid/blob/master/screenshot/iTerm2.png)
 
 [Inspired from https://github.com/anunez/one-dark-iterm](https://github.com/anunez/one-dark-iterm)
